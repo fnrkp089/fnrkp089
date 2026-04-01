@@ -8,6 +8,5 @@
 ![Kemmochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnrkp089&show_icons=true)
 
 
-<a href="https://velog.io/@fnrkp089"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</div>
+
 
