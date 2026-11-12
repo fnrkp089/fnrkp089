@@ -1,12 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Kemmochi's%20GitHub&fontSize=70&animation=scaleIn)
-<div align='center'>
-  <h2>WELCOME!</h2><p><p>
-  
-  Technology<p>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
+<p align="center"><img src="assets/banner.svg" width="100%" alt="Kemmochi's GitHub" /></p>
 
-![Kemmochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnrkp089&show_icons=true)
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
+<p align="center"><img src="assets/terminal.svg" width="100%" alt="kemmochi@github: Backend + Frontend, JavaScript, TypeScript, REST API, Jest, Nginx, Seoul" /></p>
 
+<p align="center">
+  <a href="mailto:fnrkp089@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
+</p>
 
+<p align="center"><img src="assets/skills.svg" width="100%" alt="Skills: JavaScript, TypeScript, REST API, Jest, Nginx" /></p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnrkp089/fnrkp089/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnrkp089/fnrkp089/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/fnrkp089/fnrkp089/output/snake-light.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Press start. Thanks for visiting" /></p>
