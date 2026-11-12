@@ -2,13 +2,13 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><img src="assets/terminal.svg" width="100%" alt="kemmochi@github: Backend + Frontend, JavaScript, TypeScript, REST API, Jest, Nginx, Seoul" /></p>
+<p align="center"><img src="assets/terminal.svg" width="100%" alt="kemmochi@github: Full-Stack / AI Security Engineer. TypeScript, Rust, C#, Unreal Engine. tRPC, gRPC, MCP. Vitest, Playwright. AWS, Vercel, Supabase. Seoul" /></p>
 
 <p align="center">
   <a href="mailto:fnrkp089@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
 </p>
 
-<p align="center"><img src="assets/skills.svg" width="100%" alt="Skills: JavaScript, TypeScript, REST API, Jest, Nginx" /></p>
+<p align="center"><img src="assets/skills.svg" width="100%" alt="Skills: TypeScript, Rust, C#, Unreal Engine, AI Security" /></p>
 
 <p align="center">
   <picture>

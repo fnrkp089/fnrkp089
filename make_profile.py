@@ -11,21 +11,22 @@ import random
 # ----------------------------- CONFIG ---------------------------------
 NAME = "KEMMOCHI"                 # banner title, A-Z and spaces only
 HANDLE = "fnrkp089"
-CHIPS = ["JS", "TS", "NGINX"]
+CHIPS = ["TS", "RUST", "C#", "UNREAL"]
 INFO = [                          # neofetch lines in the terminal
-    ("role", "Backend + Frontend"),
-    ("lang", "JavaScript, TypeScript"),
-    ("api", "REST API"),
-    ("test", "Jest"),
-    ("infra", "Nginx"),
+    ("role", "Full-Stack / AI Security Engineer"),
+    ("lang", "TypeScript, Rust, C#"),
+    ("engine", "Unreal Engine"),
+    ("api", "tRPC, gRPC, MCP"),
+    ("test", "Vitest, Playwright"),
+    ("infra", "AWS, Vercel, Supabase"),
     ("based", "Seoul"),
 ]
 SKILLS = [                        # (label, bar length in percent)
-    ("JavaScript", 85),
-    ("TypeScript", 75),
-    ("REST API", 70),
-    ("Jest", 55),
-    ("Nginx", 50),
+    ("TypeScript", 85),
+    ("Rust", 70),
+    ("C#", 65),
+    ("Unreal Engine", 55),
+    ("AI Security", 60),
 ]
 ACCENT = "#b79cff"
 # ----------------------------------------------------------------------
